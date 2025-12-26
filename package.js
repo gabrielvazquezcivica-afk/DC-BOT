@@ -1,0 +1,14 @@
+{
+  "name": "dc-music-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "@discordjs/voice": "^0.17.0",
+    "play-dl": "^1.9.7",
+    "dotenv": "^16.4.5"
+  }
+}
